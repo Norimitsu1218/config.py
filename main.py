@@ -1,4 +1,4 @@
-from config import setup_app
+from tonosama_config import setup_app
 
 setup_app()
 
